@@ -1188,6 +1188,8 @@
 
 .ion-logo-apple:before { content: "\f229"; }
 
+.ion-logo-avatar:before { content: "\f351"; }
+
 .ion-logo-bitcoin:before { content: "\f22b"; }
 
 .ion-logo-buffer:before { content: "\f22d"; }
@@ -1246,11 +1248,15 @@
 
 .ion-logo-sass:before { content: "\f249"; }
 
+.ion-logo-share:before { content: "\f352"; }
+
 .ion-logo-skype:before { content: "\f24a"; }
 
 .ion-logo-snapchat:before { content: "\f24b"; }
 
 .ion-logo-steam:before { content: "\f24c"; }
+
+.ion-logo-test:before { content: "\f350"; }
 
 .ion-logo-tumblr:before { content: "\f24d"; }
 
@@ -1877,5 +1883,3 @@
 .ion-md-wine:before { content: "\f3a9"; }
 
 .ion-md-woman:before { content: "\f3aa"; }
-
-/*# sourceMappingURL=ionicons-core.css.map */

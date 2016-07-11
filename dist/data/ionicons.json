@@ -645,6 +645,17 @@
       }
     ]
   },
+  "avatar": {
+    "tags": [
+      "avatar"
+    ],
+    "icons": [
+      {
+        "code": "0xf351",
+        "name": "logo-avatar"
+      }
+    ]
+  },
   "backspace": {
     "tags": [
       "backspace"
@@ -6098,6 +6109,17 @@
       {
         "code": "0xf38e",
         "name": "md-tennisball"
+      }
+    ]
+  },
+  "test": {
+    "tags": [
+      "test"
+    ],
+    "icons": [
+      {
+        "code": "0xf350",
+        "name": "logo-test"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "build_hash": "",
+  "build_hash": "fdb0a35463406f05f9737aeff353db63",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -2360,6 +2360,10 @@
       "name": "logo-apple"
     },
     {
+      "code": "0xf351",
+      "name": "logo-avatar"
+    },
+    {
       "code": "0xf22b",
       "name": "logo-bitcoin"
     },
@@ -2476,6 +2480,10 @@
       "name": "logo-sass"
     },
     {
+      "code": "0xf352",
+      "name": "logo-share"
+    },
+    {
       "code": "0xf24a",
       "name": "logo-skype"
     },
@@ -2486,6 +2494,10 @@
     {
       "code": "0xf24c",
       "name": "logo-steam"
+    },
+    {
+      "code": "0xf350",
+      "name": "logo-test"
     },
     {
       "code": "0xf24d",
