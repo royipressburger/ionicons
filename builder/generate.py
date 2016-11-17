@@ -43,6 +43,7 @@ def generate_data_files(data):
   icon_names = []
   mode_icons = []
   logo_icons = []
+  travessey_icons = []
   all_icons = {}
   tag_data = get_tag_data()
 
@@ -64,6 +65,9 @@ def generate_data_files(data):
     elif ionicon['name'].startswith('logo-'):
       name = ionicon['name'][5:]
 
+    elif ionicon['name'].startswith('travessey-'):
+      name = ionicon['name'][10:]
+
     if name not in icon_names:
       icon_names.append(name)
 
@@ -71,6 +75,7 @@ def generate_data_files(data):
     ios_svg = os.path.join(INPUT_SVG_DIR, 'ios-%s.svg' % (icon_name))
     md_svg = os.path.join(INPUT_SVG_DIR, 'md-%s.svg' % (icon_name))
     logo_svg = os.path.join(INPUT_SVG_DIR, 'logo-%s.svg' % (icon_name))
+    travessey_svg = os.path.join(INPUT_SVG_DIR, 'travessey-%s.svg' % (icon_name))
 
     if os.path.isfile(ios_svg) and os.path.isfile(md_svg):
       mode_icons.append('"%s":1' % icon_name)
@@ -106,6 +111,19 @@ def generate_data_files(data):
         'tags': tag_data.get(icon_name) or icon_name.split('-')
       }
 
+    elif os.path.isfile(travessey_svg):
+      travessey_icons.append('"%s":1' % icon_name)
+
+      all_icons[icon_name] = {
+        'icons': [
+          {
+            'code': get_code_by_name('travessey-%s' % (icon_name)),
+            'name': 'travessey-%s' % (icon_name) or icon_name.split('-')
+          }
+        ],
+        'tags': tag_data.get(icon_name) or icon_name.split('-')
+      }
+
     elif '-outline' in icon_name:
       continue
 
@@ -120,6 +138,11 @@ def generate_data_files(data):
 
   output = '{\n' +  ',\n'.join(logo_icons) + '\n}'
   f = codecs.open(os.path.join(DATA_PATH, 'logo-icons.json'), 'w', 'utf-8')
+  f.write(output)
+  f.close()
+
+  output = '{\n' +  ',\n'.join(travessey_icons) + '\n}'
+  f = codecs.open(os.path.join(DATA_PATH, 'travessey-icons.json'), 'w', 'utf-8')
   f.write(output)
   f.close()
 
@@ -406,14 +429,14 @@ def get_build_data():
   f = codecs.open(build_data_path, 'r', 'utf-8')
   data = json.loads(f.read())
   f.close()
-  
+
   package_json_path = os.path.join(ROOT_PATH, 'package.json')
   f = codecs.open(package_json_path, 'r', 'utf-8')
   package_data = json.loads(f.read())
   f.close()
-  
+
   data['version'] = package_data['version']
-  
+
   return data
 
 

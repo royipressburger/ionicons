@@ -1,5 +1,5 @@
 {
-  "build_hash": "",
+  "build_hash": "e624e91b883b17a71a6fe160676c6109",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -2420,6 +2420,10 @@
       "name": "logo-googleplus"
     },
     {
+      "code": "0xf351",
+      "name": "logo-gopro"
+    },
+    {
       "code": "0xf23c",
       "name": "logo-hackernews"
     },
@@ -2486,6 +2490,10 @@
     {
       "code": "0xf24c",
       "name": "logo-steam"
+    },
+    {
+      "code": "0xf350",
+      "name": "logo-tra-test"
     },
     {
       "code": "0xf24d",

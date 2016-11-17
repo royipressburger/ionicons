@@ -1648,5 +1648,9 @@
     "view",
     "watch",
     "youtube"
+  ],
+  "test": [
+    "travessey",
+    "logo"
   ]
 }

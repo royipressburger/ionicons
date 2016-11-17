@@ -3088,6 +3088,17 @@
       }
     ]
   },
+  "gopro": {
+    "tags": [
+      "gopro"
+    ],
+    "icons": [
+      {
+        "code": "0xf351",
+        "name": "logo-gopro"
+      }
+    ]
+  },
   "grid": {
     "tags": [
       "grid",
@@ -6252,6 +6263,18 @@
       {
         "code": "0xf395",
         "name": "md-timer"
+      }
+    ]
+  },
+  "tra-test": {
+    "tags": [
+      "tra",
+      "test"
+    ],
+    "icons": [
+      {
+        "code": "0xf350",
+        "name": "logo-tra-test"
       }
     ]
   },
