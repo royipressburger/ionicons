@@ -1188,7 +1188,15 @@
 
 .ion-logo-apple:before { content: "\f229"; }
 
+.ion-logo-backpack:before { content: "\f350"; }
+
 .ion-logo-bitcoin:before { content: "\f22b"; }
+
+.ion-logo-bucketlist:before { content: "\f351"; }
+
+.ion-logo-bucketlist_big:before { content: "\f352"; }
+
+.ion-logo-bucketlist_outline:before { content: "\f353"; }
 
 .ion-logo-buffer:before { content: "\f22d"; }
 
@@ -1196,13 +1204,23 @@
 
 .ion-logo-codepen:before { content: "\f230"; }
 
+.ion-logo-compass:before { content: "\f3ab"; }
+
+.ion-logo-compass_big:before { content: "\f3ac"; }
+
 .ion-logo-css3:before { content: "\f231"; }
 
+.ion-logo-deals:before { content: "\f3ad"; }
+
 .ion-logo-designernews:before { content: "\f232"; }
+
+.ion-logo-dot:before { content: "\f3ae"; }
 
 .ion-logo-dribbble:before { content: "\f233"; }
 
 .ion-logo-dropbox:before { content: "\f234"; }
+
+.ion-logo-edit:before { content: "\f3af"; }
 
 .ion-logo-euro:before { content: "\f235"; }
 
@@ -1228,11 +1246,17 @@
 
 .ion-logo-linkedin:before { content: "\f240"; }
 
+.ion-logo-map_big:before { content: "\f3b0"; }
+
 .ion-logo-markdown:before { content: "\f241"; }
+
+.ion-logo-news_feed:before { content: "\f3b1"; }
 
 .ion-logo-nodejs:before { content: "\f242"; }
 
 .ion-logo-octocat:before { content: "\f243"; }
+
+.ion-logo-passport:before { content: "\f3b2"; }
 
 .ion-logo-pinterest:before { content: "\f244"; }
 
@@ -1241,6 +1265,8 @@
 .ion-logo-python:before { content: "\f246"; }
 
 .ion-logo-reddit:before { content: "\f247"; }
+
+.ion-logo-report:before { content: "\f3b3"; }
 
 .ion-logo-rss:before { content: "\f248"; }
 
@@ -1251,6 +1277,8 @@
 .ion-logo-snapchat:before { content: "\f24b"; }
 
 .ion-logo-steam:before { content: "\f24c"; }
+
+.ion-logo-travessey:before { content: "\f3b4"; }
 
 .ion-logo-tumblr:before { content: "\f24d"; }
 

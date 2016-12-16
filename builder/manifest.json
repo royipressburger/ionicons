@@ -1,5 +1,5 @@
 {
-  "build_hash": "259c592d7dc03e4169a4ca133ea2a34d",
+  "build_hash": "7b9ef79658db517e85f1f53dfa97a6fd",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -2060,8 +2060,24 @@
       "name": "logo-apple"
     },
     {
+      "code": "0xf350",
+      "name": "logo-backpack"
+    },
+    {
       "code": "0xf22b",
       "name": "logo-bitcoin"
+    },
+    {
+      "code": "0xf351",
+      "name": "logo-bucketlist"
+    },
+    {
+      "code": "0xf352",
+      "name": "logo-bucketlist_big"
+    },
+    {
+      "code": "0xf353",
+      "name": "logo-bucketlist_outline"
     },
     {
       "code": "0xf22d",
@@ -2076,12 +2092,28 @@
       "name": "logo-codepen"
     },
     {
+      "code": "0xf3ab",
+      "name": "logo-compass"
+    },
+    {
+      "code": "0xf3ac",
+      "name": "logo-compass_big"
+    },
+    {
       "code": "0xf231",
       "name": "logo-css3"
     },
     {
+      "code": "0xf3ad",
+      "name": "logo-deals"
+    },
+    {
       "code": "0xf232",
       "name": "logo-designernews"
+    },
+    {
+      "code": "0xf3ae",
+      "name": "logo-dot"
     },
     {
       "code": "0xf233",
@@ -2090,6 +2122,10 @@
     {
       "code": "0xf234",
       "name": "logo-dropbox"
+    },
+    {
+      "code": "0xf3af",
+      "name": "logo-edit"
     },
     {
       "code": "0xf235",
@@ -2140,8 +2176,16 @@
       "name": "logo-linkedin"
     },
     {
+      "code": "0xf3b0",
+      "name": "logo-map_big"
+    },
+    {
       "code": "0xf241",
       "name": "logo-markdown"
+    },
+    {
+      "code": "0xf3b1",
+      "name": "logo-news_feed"
     },
     {
       "code": "0xf242",
@@ -2150,6 +2194,10 @@
     {
       "code": "0xf243",
       "name": "logo-octocat"
+    },
+    {
+      "code": "0xf3b2",
+      "name": "logo-passport"
     },
     {
       "code": "0xf244",
@@ -2166,6 +2214,10 @@
     {
       "code": "0xf247",
       "name": "logo-reddit"
+    },
+    {
+      "code": "0xf3b3",
+      "name": "logo-report"
     },
     {
       "code": "0xf248",
@@ -2186,6 +2238,10 @@
     {
       "code": "0xf24c",
       "name": "logo-steam"
+    },
+    {
+      "code": "0xf3b4",
+      "name": "logo-travessey"
     },
     {
       "code": "0xf24d",

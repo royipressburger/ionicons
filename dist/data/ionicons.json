@@ -645,6 +645,17 @@
       }
     ]
   },
+  "backpack": {
+    "tags": [
+      "backpack"
+    ],
+    "icons": [
+      {
+        "code": "0xf350",
+        "name": "logo-backpack"
+      }
+    ]
+  },
   "backspace": {
     "tags": [
       "backspace"
@@ -1098,6 +1109,39 @@
       {
         "code": "0xf2a4",
         "name": "md-brush"
+      }
+    ]
+  },
+  "bucketlist": {
+    "tags": [
+      "bucketlist"
+    ],
+    "icons": [
+      {
+        "code": "0xf351",
+        "name": "logo-bucketlist"
+      }
+    ]
+  },
+  "bucketlist_big": {
+    "tags": [
+      "bucketlist_big"
+    ],
+    "icons": [
+      {
+        "code": "0xf352",
+        "name": "logo-bucketlist_big"
+      }
+    ]
+  },
+  "bucketlist_outline": {
+    "tags": [
+      "bucketlist_outline"
+    ],
+    "icons": [
+      {
+        "code": "0xf353",
+        "name": "logo-bucketlist_outline"
       }
     ]
   },
@@ -2016,6 +2060,17 @@
       }
     ]
   },
+  "compass_big": {
+    "tags": [
+      "compass_big"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ac",
+        "name": "logo-compass_big"
+      }
+    ]
+  },
   "construct": {
     "tags": [
       "construct"
@@ -2232,6 +2287,17 @@
       }
     ]
   },
+  "deals": {
+    "tags": [
+      "deals"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ad",
+        "name": "logo-deals"
+      }
+    ]
+  },
   "designernews": {
     "tags": [
       "design",
@@ -2327,6 +2393,17 @@
       }
     ]
   },
+  "dot": {
+    "tags": [
+      "dot"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ae",
+        "name": "logo-dot"
+      }
+    ]
+  },
   "download": {
     "tags": [
       "download",
@@ -2389,6 +2466,17 @@
       {
         "code": "0xf2e4",
         "name": "md-easel"
+      }
+    ]
+  },
+  "edit": {
+    "tags": [
+      "edit"
+    ],
+    "icons": [
+      {
+        "code": "0xf3af",
+        "name": "logo-edit"
       }
     ]
   },
@@ -3927,6 +4015,17 @@
       }
     ]
   },
+  "map_big": {
+    "tags": [
+      "map_big"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b0",
+        "name": "logo-map_big"
+      }
+    ]
+  },
   "markdown": {
     "tags": [
       "markdown",
@@ -4242,6 +4341,17 @@
       }
     ]
   },
+  "news_feed": {
+    "tags": [
+      "news_feed"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b1",
+        "name": "logo-news_feed"
+      }
+    ]
+  },
   "no-smoking": {
     "tags": [
       "cancer",
@@ -4508,6 +4618,17 @@
       {
         "code": "0xf340",
         "name": "md-partly-sunny"
+      }
+    ]
+  },
+  "passport": {
+    "tags": [
+      "passport"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b2",
+        "name": "logo-passport"
       }
     ]
   },
@@ -5313,6 +5434,17 @@
       {
         "code": "0xf36a",
         "name": "md-repeat"
+      }
+    ]
+  },
+  "report": {
+    "tags": [
+      "report"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b3",
+        "name": "logo-report"
       }
     ]
   },
@@ -6312,6 +6444,17 @@
       {
         "code": "0xf398",
         "name": "md-trash"
+      }
+    ]
+  },
+  "travessey": {
+    "tags": [
+      "travessey"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b4",
+        "name": "logo-travessey"
       }
     ]
   },
