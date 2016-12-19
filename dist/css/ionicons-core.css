@@ -230,8 +230,6 @@
 
 .ion-ios-bus-outline:before { content: "\f139"; }
 
-.ion-ios-cafe:before { content: "\f13c"; }
-
 .ion-ios-cafe-outline:before { content: "\f13b"; }
 
 .ion-ios-calculator:before { content: "\f3f2"; }
@@ -1198,6 +1196,8 @@
 
 .ion-logo-bucketlist_outline:before { content: "\f353"; }
 
+.ion-logo-budget:before { content: "\f13c"; }
+
 .ion-logo-buffer:before { content: "\f22d"; }
 
 .ion-logo-chrome:before { content: "\f22f"; }
@@ -1220,6 +1220,8 @@
 
 .ion-logo-dropbox:before { content: "\f234"; }
 
+.ion-logo-eat:before { content: "\f3b5"; }
+
 .ion-logo-edit:before { content: "\f3af"; }
 
 .ion-logo-euro:before { content: "\f235"; }
@@ -1239,6 +1241,8 @@
 .ion-logo-hackernews:before { content: "\f23c"; }
 
 .ion-logo-html5:before { content: "\f23d"; }
+
+.ion-logo-images:before { content: "\f3b6"; }
 
 .ion-logo-instagram:before { content: "\f23e"; }
 
@@ -1274,9 +1278,13 @@
 
 .ion-logo-skype:before { content: "\f24a"; }
 
+.ion-logo-sleep:before { content: "\f3b7"; }
+
 .ion-logo-snapchat:before { content: "\f24b"; }
 
 .ion-logo-steam:before { content: "\f24c"; }
+
+.ion-logo-tips:before { content: "\f3b8"; }
 
 .ion-logo-travessey:before { content: "\f3b4"; }
 
