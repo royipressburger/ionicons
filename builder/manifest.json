@@ -1,5 +1,5 @@
 {
-  "build_hash": "7b9ef79658db517e85f1f53dfa97a6fd",
+  "build_hash": "148f438d7bdbe9d6c8c5a2a392d8d66f",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -350,10 +350,6 @@
     {
       "code": "0xf139",
       "name": "ios-bus-outline"
-    },
-    {
-      "code": "0xf13c",
-      "name": "ios-cafe"
     },
     {
       "code": "0xf13b",
@@ -2080,6 +2076,10 @@
       "name": "logo-bucketlist_outline"
     },
     {
+      "code": "0xf13c",
+      "name": "logo-budget"
+    },
+    {
       "code": "0xf22d",
       "name": "logo-buffer"
     },
@@ -2124,6 +2124,10 @@
       "name": "logo-dropbox"
     },
     {
+      "code": "0xf3b5",
+      "name": "logo-eat"
+    },
+    {
       "code": "0xf3af",
       "name": "logo-edit"
     },
@@ -2162,6 +2166,10 @@
     {
       "code": "0xf23d",
       "name": "logo-html5"
+    },
+    {
+      "code": "0xf3b6",
+      "name": "logo-images"
     },
     {
       "code": "0xf23e",
@@ -2232,12 +2240,20 @@
       "name": "logo-skype"
     },
     {
+      "code": "0xf3b7",
+      "name": "logo-sleep"
+    },
+    {
       "code": "0xf24b",
       "name": "logo-snapchat"
     },
     {
       "code": "0xf24c",
       "name": "logo-steam"
+    },
+    {
+      "code": "0xf3b8",
+      "name": "logo-tips"
     },
     {
       "code": "0xf3b4",

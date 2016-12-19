@@ -1145,6 +1145,17 @@
       }
     ]
   },
+  "budget": {
+    "tags": [
+      "budget"
+    ],
+    "icons": [
+      {
+        "code": "0xf13c",
+        "name": "logo-budget"
+      }
+    ]
+  },
   "buffer": {
     "tags": [
       "buffer",
@@ -1235,25 +1246,6 @@
       {
         "code": "0xf2a8",
         "name": "md-bus"
-      }
-    ]
-  },
-  "cafe": {
-    "tags": [
-      "cafe"
-    ],
-    "icons": [
-      {
-        "code": "0xf13c",
-        "name": "ios-cafe"
-      },
-      {
-        "code": "0xf13b",
-        "name": "ios-cafe-outline"
-      },
-      {
-        "code": "0xf2a9",
-        "name": "md-cafe"
       }
     ]
   },
@@ -2466,6 +2458,17 @@
       {
         "code": "0xf2e4",
         "name": "md-easel"
+      }
+    ]
+  },
+  "eat": {
+    "tags": [
+      "eat"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b5",
+        "name": "logo-eat"
       }
     ]
   },
@@ -5869,6 +5872,17 @@
       }
     ]
   },
+  "sleep": {
+    "tags": [
+      "sleep"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b7",
+        "name": "logo-sleep"
+      }
+    ]
+  },
   "snapchat": {
     "tags": [
       "snapchat",
@@ -6384,6 +6398,17 @@
       {
         "code": "0xf395",
         "name": "md-timer"
+      }
+    ]
+  },
+  "tips": {
+    "tags": [
+      "tips"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b8",
+        "name": "logo-tips"
       }
     ]
   },
